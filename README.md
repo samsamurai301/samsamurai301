@@ -1,7 +1,8 @@
 <h1 align="center">Welcome to My GitHub Profile 🌌</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=1CA2F7&center=true&width=435&lines=Machine+Learning+%26+Web+Engineer;Data+Analytics+Enthusiast;Turning+Data+into+Insights;Crafting+Clean+%26+Intuitive+Web+Solutions" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=1CA2F7&center=true&width=650&lines=Machine+Learning+%26+Web+Engineer;Data+Analytics+%26+Computer+Vision+Specialist;Cloud+Deployment+Expert+%7C+AWS+%26+GCP;Crafting+Intelligent+%26+Scalable+Solutions" alt="Typing animation">
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
@@ -11,49 +12,54 @@
 ---
 
 ## 💻 About Me
-As a **Machine Learning and Web Engineer** with a background in **Data Analytics**, I specialize in crafting intelligent solutions and data-driven applications. My expertise lies at the intersection of technology and insights—analyzing data, building ML models, and developing web interfaces that bring these insights to life.
+I am a **Machine Learning and Web Engineer** with a passion for creating intelligent, scalable solutions that transform data into actionable insights. With expertise in **Computer Vision, AI, Data Analytics**, and **Cloud Deployments** using **Docker**, **AWS**, and **GCP**, I specialize in both the **development** and **deployment** of data-driven applications that make an impact.
 
-- 🌟 **Skills**: Python, JavaScript, TypeScript, C++, Data Science, ML & AI
-- 📈 **Specialties**: Data Analytics, Machine Learning, Full-Stack Development
-- 🎯 **Current Focus**: Expanding capabilities in cloud-based ML solutions and advanced data visualization
+- 🌟 **Skills**: Python, JavaScript, TypeScript, C++, Data Science, ML & AI, Docker, Cloud
+- 📈 **Specialties**: Computer Vision, Cloud-Based ML Deployments, Full-Stack Development
+- 🎯 **Current Focus**: Building scalable ML solutions and deploying AI models with cloud infrastructure
 
 ---
 
 ## 🚀 Skills and Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,html,css,nodejs,express,mongodb&perline=5" alt="Skills icons" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,html,css,nodejs,express,mongodb,docker,aws,gcp&perline=5" alt="Skills icons" />
 </p>
 
 ### 📊 Data & Analytics
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn)
+I leverage **Python** and its extensive libraries to process and analyze complex data sets:
+- **Pandas**: Efficient data manipulation and transformation for exploratory data analysis.
+- **NumPy**: Numerical operations and array manipulations for large-scale data sets.
+- **Scikit-Learn**: Building traditional machine learning models for predictive analytics.
 
-### 🤖 Machine Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+### 🤖 Machine Learning & AI
+With a focus on computer vision and AI, I work with powerful libraries and frameworks:
+- **TensorFlow & PyTorch**: Developing and deploying neural network models for deep learning and AI solutions.
+- **OpenCV**: Computer vision applications, including image processing, feature extraction, and object detection.
+- **Keras**: High-level neural networks API for rapid prototyping and model tuning.
 
 ### 🌐 Web Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+I build data-driven, responsive web applications and APIs using Python frameworks:
+- **Django**: Crafting robust, full-featured web applications with integrated backend solutions.
+- **Flask**: Developing lightweight, RESTful APIs and microservices to serve ML models.
+- **FastAPI**: High-performance web frameworks for seamless API integration and deployment.
+
+### 🚀 Cloud & Deployment
+With a strong background in containerization and cloud services, I manage scalable deployments:
+- **Docker**: Containerizing applications and ML models for efficient and reproducible deployments.
+- **AWS & GCP**: Cloud solutions for end-to-end deployment pipelines, model hosting, and scalable infrastructure.
+- **Kubernetes** (in progress): Exploring orchestration for managing containerized applications in production.
+
+For more detailed insights into my experience, please visit my [LinkedIn Profile](https://www.linkedin.com/in/sohangkumar-patel-18b3b4232/).
 
 ---
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/sohangkumar-patel-18b3b4232/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:sohangkumar.patel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </p>
 
@@ -61,7 +67,7 @@ As a **Machine Learning and Web Engineer** with a background in **Data Analytics
 
 ## 🧠 My Knowledge Areas
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=600&color=00D4FF&center=true&width=440&lines=Data+Cleaning+%26+Preprocessing;Machine+Learning+Modeling;Frontend+%26+Backend+Development;Data+Visualization;API+Development+%26+Integration;Statistical+Analysis" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=600&color=00D4FF&center=true&width=440&lines=Data+Cleaning+%26+Preprocessing;Computer+Vision+%26+Image+Processing;Machine+Learning+Model+Deployment;Cloud+Infrastructure+%7C+AWS+%26+GCP;Frontend+%26+Backend+Web+Development;API+Development+%26+Integration" alt="Typing animation">
 </p>
 
 ---
