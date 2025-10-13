@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub Universe 🌌</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=1CA2F7&center=true&width=650&lines=Machine+Learning+Engineer+%26+Full-Stack+Developer;Computer+Vision+%26+Data+Analytics+Specialist;Cloud-Native+AI+Deployment+on+AWS+%26+GCP;Building+Scalable+%26+Intelligent+Applications" alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=1CA2F7&center=true&width=650&lines=Machine+Learning+Engineer;Full-Stack+Developer;Computer+Vision+%26+Data+Analytics+Specialist;Cloud-Native+AI+Deployment+on+AWS+%26+GCP;Building+Scalable+%26+Intelligent+Applications" alt="Typing animation">
 </p>
 
 <p align="center">
