@@ -5,7 +5,7 @@
 Use the [Shiftframe support form](https://github.com/samsamurai301/samsamurai301/issues/new?template=shiftframe-support.yml).
 
 - **Theme:** Shiftframe
-- **Current documented version:** 1.0.2
+- **Current documented version:** 1.0.3
 - **Support language:** English
 - **Response target:** within two business days for standard theme-related requests
 - **Critical defects:** reviewed as soon as practical and prioritized for correction
