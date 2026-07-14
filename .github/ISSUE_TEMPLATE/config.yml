@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Shiftframe documentation
+    url: https://github.com/samsamurai301/samsamurai301/tree/main/docs
+    about: Read installation, customization, troubleshooting, FAQ, and release documentation first.
+  - name: Private security report
+    url: mailto:sohangkumar.patel@gmail.com?subject=Private%20Shiftframe%20security%20report
+    about: Use this only for sensitive security information that must not be posted publicly.
