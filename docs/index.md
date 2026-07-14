@@ -5,7 +5,7 @@ title: Shiftframe documentation
 
 # Shiftframe theme documentation
 
-**Current release:** 1.0.3  
+**Current release:** 1.0.4  
 **Platform:** Shopify Online Store 2.0  
 **Support:** [Open the Shiftframe support form](https://github.com/samsamurai301/samsamurai301/issues/new?template=shiftframe-support.yml)
 
@@ -47,4 +47,4 @@ GitHub support requests are public. Never include passwords, customer informatio
 
 ## Documentation status
 
-This documentation is maintained for Shiftframe 1.0.3. Shopify changes its platform over time, so verify platform-specific administration steps against current Shopify documentation when a screen or label has changed.
+This documentation is maintained for Shiftframe 1.0.4. Shopify changes its platform over time, so verify platform-specific administration steps against current Shopify documentation when a screen or label has changed.
