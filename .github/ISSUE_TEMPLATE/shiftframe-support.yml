@@ -1,0 +1,109 @@
+name: Shiftframe theme support
+description: Request help with the Shiftframe Shopify theme.
+title: "[Shiftframe support] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for using Shiftframe. Standard support requests receive a response target of two business days.
+
+        **This issue will be public.** Do not include passwords, customer data, API keys, collaborator codes, private app credentials, unpublished business information, or security details. Send sensitive security reports to sohangkumar.patel@gmail.com instead.
+  - type: input
+    id: name
+    attributes:
+      label: First and last name
+      placeholder: Your name
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: Contact email
+      description: This appears in a public issue. Use a business alias if preferred.
+      placeholder: name@example.com
+    validations:
+      required: true
+  - type: input
+    id: store
+    attributes:
+      label: Store URL
+      description: Use the permanent myshopify.com address when possible.
+      placeholder: https://storename.myshopify.com
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Shiftframe version
+      options:
+        - 1.0.2
+        - 1.0.1
+        - 1.0.0
+        - Earlier or unknown
+    validations:
+      required: true
+  - type: input
+    id: affected_url
+    attributes:
+      label: Affected page or preview URL
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Impact
+      options:
+        - Critical — security, destructive behavior, or broadly blocked purchase path
+        - High — core shopping path blocked without a reasonable workaround
+        - Normal — functional defect with limited scope or a workaround
+        - Low — cosmetic, documentation, or configuration question
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Description of the problem
+      description: Explain what is happening and why it matters.
+      placeholder: Describe the problem clearly.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open ...
+        2. Select ...
+        3. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected and actual result
+      placeholder: Expected ...; actual ...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Browser, device, apps, and recent changes
+      description: Include browser/version, operating system, device, relevant app blocks/embeds, and recent custom-code changes.
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Screenshots or recording
+      description: Drag images or files into this field. Remove any sensitive information first.
+      placeholder: Drag and drop screenshots or a short recording here.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmation
+      options:
+        - label: I tested in an unpublished duplicate of the current unmodified Shiftframe release where practical.
+          required: true
+        - label: I removed passwords, customer data, API keys, collaborator codes, and other sensitive information.
+          required: true

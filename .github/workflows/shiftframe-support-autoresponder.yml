@@ -1,0 +1,31 @@
+name: Shiftframe support acknowledgement
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+
+jobs:
+  acknowledge:
+    if: startsWith(github.event.issue.title, '[Shiftframe support]')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Acknowledge request
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = [
+              'Thanks for contacting Shiftframe support. Your request has been received.',
+              '',
+              'The response target for standard theme-related requests is within two business days. Critical reproducible defects are prioritized.',
+              '',
+              'Please keep passwords, customer data, API keys, collaborator codes, and other sensitive information out of this public issue. If access is needed, support will request the minimum Shopify collaborator permissions through a private channel.'
+            ].join('\n');
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body
+            });
