@@ -1,5 +1,13 @@
 # Shiftframe release notes
 
+## 1.0.4 — submission schema preflight
+
+- Corrected the Brand Canvas note coordinates so every preset value aligns with the configured 5% slider step.
+- Corrected all other off-schema values found in templates, section groups, and the four preset listing install states.
+- Added a deep preflight that validates every stored range/select/checkbox value against its section or global setting definition.
+- Added current Shopify CLI Theme Check and Shopify CLI packaging to the release workflow.
+- No merchant-data migration is required.
+
 ## 1.0.3 — schema validation hotfix
 
 - Corrected the Brand Canvas desktop-height range to use a Shopify-valid `20px` increment across `520–900px`.
