@@ -1,123 +1,113 @@
-<h1 align="center">Welcome to My GitHub Universe 🌌</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=1CA2F7&center=true&width=650&lines=Machine+Learning+Engineer;Full-Stack+Developer;Computer+Vision+%26+Data+Analytics+Specialist;Cloud-Native+AI+Deployment+on+AWS+%26+GCP;Building+Scalable+%26+Intelligent+Applications" alt="Typing animation">
-</p>
+# Hi, I'm Sohangkumar Patel 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
-  <b>Hey there! 👋 I’m thrilled to have you here.</b>
-</p>
+### Machine Learning Engineer · Full-Stack Developer · Shopify Theme Developer
 
----
+I turn ideas, messy data, and rough requirements into **reliable, production-ready software**:<br/>
+AI models that actually ship, web apps that scale, and storefronts that sell.
 
-## 💡 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=1CA2F7&center=true&vCenter=true&width=640&lines=Computer+Vision+%26+Machine+Learning;FastAPI+%2B+React+%2F+Next.js+Web+Apps;Cloud+Deployment+on+AWS+%26+GCP;Custom+Shopify+Themes+%26+Storefronts" alt="What I build" />
 
-I’m a **Machine Learning and Web Engineer** passionate about building intelligent, data-driven systems that deliver measurable impact.  
-My expertise lies at the intersection of **AI, Computer Vision, Cloud Infrastructure**, and **Full-Stack Development** — transforming raw data into actionable insights and scalable products.
+<a href="mailto:sohangkumar.patel@gmail.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/Hire%20Me-Start%20a%20Project-1CA2F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire me" /></a>
+<a href="https://www.linkedin.com/in/sohangkumar-patel-18b3b4232/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="docs/README.md"><img src="https://img.shields.io/badge/Shiftframe-Theme%20Docs-C7FF21?style=for-the-badge&logo=shopify&logoColor=black" alt="Shiftframe docs" /></a>
 
-- 🌟 **Core Skills**: Python, TypeScript, C++, ML & AI, React, FastAPI, Docker, Cloud  
-- 📊 **Focus Areas**: Computer Vision · Scalable Backend Systems · Data Analytics  
-- 🚀 **Current Goal**: Designing cloud-native AI pipelines and production-grade ML systems
+</div>
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## 🤝 How I Can Help You
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,react,nextjs,fastapi,nodejs,express,postgres,mongodb,docker,aws,gcp,git&perline=6" alt="Skills icons" />
-</p>
+Whether you're a founder, a small business, a research team, or a fellow developer who's stuck — here's where I can take work off your plate:
 
----
-
-## 🧠 Machine Learning & AI
-
-I specialize in developing and deploying ML solutions that bridge research and real-world impact:
-
-- **TensorFlow / PyTorch** – Building deep learning and computer vision models  
-- **Scikit-Learn / XGBoost** – Classic ML for analytics and predictive modeling  
-- **OpenCV** – Visual intelligence, object detection, and feature extraction  
-- **Keras** – Fast prototyping and fine-tuning neural architectures  
-
-> 🔬 I particularly enjoy working on projects where **AI meets real-world systems**, like autonomous inspection, visual analytics, and IoT-driven monitoring.
+| You need… | I deliver… |
+|---|---|
+| 🧠 **An AI / ML feature** | Computer vision, classification, detection, and predictive models — trained, evaluated, and served behind a clean API. |
+| 🌐 **A web app or API** | Fast async backends (FastAPI, Django) with modern React / Next.js frontends, auth, and databases wired up properly. |
+| 📊 **Sense made of your data** | ETL pipelines, data cleaning, analytics dashboards, and reports that answer real business questions. |
+| ☁️ **Something deployed and kept running** | Dockerized services, CI/CD with GitHub Actions, and cloud hosting on AWS or GCP. |
+| 🛍️ **A better Shopify store** | Custom Online Store 2.0 themes, sections, and storefront fixes — see **Shiftframe** below. |
 
 ---
 
-## 📊 Data Engineering & Analytics
+## 🚀 Featured Work
 
-I use data as a decision engine — transforming messy information into insights.
+<table>
+<tr>
+<td width="96" valign="top">
+  <img src="docs/assets/shiftframe-symbol.svg" width="80" alt="Shiftframe logo" />
+</td>
+<td valign="top">
 
-- **Pandas & Polars** – Fast and efficient data wrangling  
-- **NumPy & Matplotlib** – Numerical computations and visualization  
-- **ETL Pipelines** – Automated ingestion and validation workflows  
-- **ClickHouse / PostgreSQL** – Optimized storage for analytics and monitoring systems  
+### Shiftframe — Shopify Theme `v1.0.4`
 
----
+A brand-first **editorial commerce and product-launch theme** for Shopify Online Store 2.0, built for focused catalogs.
 
-## 🌐 Full-Stack & API Development
+- 🎨 **4 presets** — Shiftframe, Chromalab, Pantryprint, Quietform
+- 🧩 **Signature sections** — Graphic Hero, Product Atlas, Drop Room, Bundle Studio, Story Chapters, Proof Wall, and more
+- 🛒 **Full commerce** — cart drawer, predictive search, filtering, localization, selling plans, pickup availability
+- ♿ **Accessibility-minded**, with automated schema preflight and Theme Check in the release pipeline
 
-I love crafting clean, modular, and high-performance web systems powered by Python and JavaScript.
+📘 [Documentation](docs/README.md) · 🚀 [Install guide](docs/MERCHANT-GUIDE.md) · 🛟 [Get support](https://github.com/samsamurai301/samsamurai301/issues/new?template=shiftframe-support.yml) · 📝 [Release notes](docs/RELEASE-NOTES.md)
 
-- **FastAPI** – Lightning-fast async backends & AI API endpoints  
-- **Django / Flask** – RESTful systems and internal automation tools  
-- **React / Next.js** – Modern, dynamic, and responsive frontends  
-- **ShadCN / Tailwind / MUI** – Sleek, developer-friendly UI design systems  
-
-> 🧩 My architecture approach emphasizes **clarity, scalability, and reusability** — from microservices to interactive dashboards.
-
----
-
-## ☁️ Cloud, DevOps & Deployment
-
-I build solutions that are **production-ready, portable, and scalable**.
-
-- **Docker** – Containerization and environment reproducibility  
-- **AWS / GCP** – End-to-end cloud pipelines, model hosting, and APIs  
-- **Kubernetes** *(in progress)* – Exploring orchestration for distributed workloads  
-- **CI/CD & GitHub Actions** – Automated build, test, and deploy workflows  
-
-> ☁️ I focus on **deploy-once-run-anywhere** design — ensuring smooth cloud portability.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧭 Knowledge Map
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=600&color=00D4FF&center=true&width=480&lines=Data+Cleaning+%26+Feature+Engineering;Computer+Vision+%26+Image+Processing;Machine+Learning+Model+Deployment;Cloud+Infrastructure+%7C+AWS+%26+GCP;Full-Stack+App+Development;API+Integration+%26+Optimization" alt="Typing animation">
-</p>
+<div align="center">
 
----
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,html,css&perline=8" alt="Languages" />
 
-## 📈 GitHub Insights
+**AI · ML · Data**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=8" alt="ML tools" /><br/>
+<sub>also: Keras · XGBoost · Pandas · Polars · NumPy · Matplotlib</sub>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samsamurai301&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsamurai301&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-</p>
+**Web · Backend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,fastapi,django,flask,nodejs,express&perline=9" alt="Web tools" />
 
----
+**Data Stores · Cloud · DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,kubernetes,aws,gcp,githubactions,git&perline=8" alt="Cloud and DevOps tools" /><br/>
+<sub>also: ClickHouse · Shopify Liquid · shadcn/ui</sub>
 
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samsamurai301&theme=darkhub&margin-w=15&margin-h=15&no-frame=true" />
-</p>
+</div>
 
 ---
 
-## 🌍 Let’s Connect
+## 🧭 How I Work
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sohangkumar-patel-18b3b4232/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:sohangkumar.patel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+1. **Understand** — I start with your goal and constraints, not the tech. What does "done" look like for you?
+2. **Plan** — A short, clear proposal: scope, approach, and milestones — no jargon, no surprises.
+3. **Build** — Small, working increments you can see and test early.
+4. **Ship** — Tested, documented, and deployed, with a handover so you're never locked in.
+5. **Support** — I stick around for fixes and improvements after launch.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FFA500&center=true&width=500&lines=Let's+Collaborate+and+Innovate!;Open+to+Research+%26+Full-Stack+Opportunities;Together+We+Can+Shape+the+Future!" alt="Typing animation">
-</p>
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samsamurai301&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsamurai301&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Top languages" />
+</div>
+
+---
+
+## 📬 Let's Work Together
+
+<div align="center">
+
+Have a project, a bug that won't die, or just an idea you want to talk through?<br/>
+**I'm open to freelance work, collaborations, and full-time ML / full-stack roles.**
+
+<a href="mailto:sohangkumar.patel@gmail.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/Email-sohangkumar.patel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/sohangkumar-patel-18b3b4232/"><img src="https://img.shields.io/badge/LinkedIn-Sohangkumar%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<sub>I usually reply within 1–2 business days. Using Shiftframe? Please use the <a href="https://github.com/samsamurai301/samsamurai301/issues/new?template=shiftframe-support.yml">support form</a> so your request is tracked.</sub>
+
+</div>
